@@ -1,2 +1,2 @@
 this is my first file
-one more line
+this is feature3 line
